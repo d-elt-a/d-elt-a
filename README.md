@@ -1,8 +1,8 @@
 <h1 align="center">𝗗.𝚎𝚕𝚃Δ</h1>
 <p align="center">Développeur freelance en apprentissage</p>
 
-# 💫 About Me:
-À propos de moi<br>- 💡 Passionné par le **web design moderne** et le développement<br>- 🐧 Utilisateur de **Linux**<br>- 🎯 Objectif : construire des projets utiles et propres
+# 💫 À propos de moi :
+<br>- 💡 Passionné par le **web design moderne** et le développement<br>- 🐧 Utilisateur de **Linux**<br>- 🎯 Objectif : construire des projets utiles et propres
 
 
 # 💻 Tech Stack:
